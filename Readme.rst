@@ -1,5 +1,5 @@
-<h1>Hello there! I'm Illia Nikitin</h1>
-<h2>Front-end web developer :computer:</h2>
+H1: Hello there! I'm Illia Nikitin
+H2: Front-end web developer :computer:
 
 .. image:: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 	:alt: Linkedin: Illia Nikitin
